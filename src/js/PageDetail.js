@@ -62,8 +62,7 @@ const PageDetail = (argument = "") => {
       galleryContainer.innerHTML += `
           ${gallery}
       `
-    })
-    
+    })  
   })
 };
 
