@@ -5693,10 +5693,6 @@ p {
   text-align: center;
   margin-bottom: 25px;
 }
-#pageContent #details-container #stars-outer {
-  position: relative;
-  display: inline-block;
-}
 #pageContent #details-container #main-img {
   width: 100%;
   height: auto;
