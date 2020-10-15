@@ -97,29 +97,6 @@ p {
       display: inline-block;
     }
 
-    #stars-inner {
-      position: absolute;
-      top: 0;
-      left: 0;
-      white-space: nowrap;
-      overflow: hidden;
-      width: 0;
-    }
-
-    #stars-outer::before {
-      content: '\f005 \f005 \f005 \f005 \f005 ';
-      font-family: "Font Awesome 5 Free";
-      font-weight: 900;
-      color: $light-grey;
-    }
-
-    #stars-inner::before {
-      content: '\f005 \f005 \f005 \f005 \f005 ';
-      font-family: "Font Awesome 5 Free";
-      font-weight: 900;
-      color: $yellow;
-    }
-
     #main-img {
       width: 100%;
       height: auto;
@@ -177,7 +154,7 @@ p {
   border: 1px solid $red;
   background-color: $light-grey;
   color: $black;
-  margin-left: 40%;
+  margin-left: 42%;
 }
 
 #search-bar {
@@ -190,7 +167,7 @@ p {
   left : 10px;
   top: 6px;
   color: $white;
-  margin-left: 40%;
+  margin-left: 42%;
 }
 
 .card {
