@@ -5652,7 +5652,6 @@ h1 {
 
 p {
   text-align: center;
-  margin-bottom: 3%;
 }
 
 #pageContent {
@@ -5680,6 +5679,7 @@ p {
 #pageContent #details-container #game-title h1 {
   margin: 0;
   color: #f1f1f1;
+  margin-top: 5%;
 }
 #pageContent #details-container #platform {
   text-align: center;
@@ -5780,7 +5780,7 @@ p {
 #search-bar {
   position: relative;
   margin-bottom: 30px;
-  margin-top: 2%;
+  margin-top: 0;
 }
 
 #search-icon {

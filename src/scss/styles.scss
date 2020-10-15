@@ -46,7 +46,6 @@ h1 {
 
 p {
   text-align: center;
-  margin-bottom: 3%;
 }
 
 #pageContent {
@@ -73,6 +72,7 @@ p {
       h1 {
         margin: 0;
         color: $white;
+        margin-top: 5%;
       }
     }
 
@@ -183,7 +183,7 @@ p {
 #search-bar {
   position: relative;
   margin-bottom: 30px;
-  margin-top: 2%;
+  margin-top: 0;
 }
 
 #search-icon {
